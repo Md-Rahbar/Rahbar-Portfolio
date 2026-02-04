@@ -96,7 +96,7 @@ const Projects = () => {
             href="https://github.com/Md-Rahbar?tab=repositories"
             target="_blank"
             rel="noreferrer"
-            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-gray-300 text-sm font-medium text-gray-800 hover:bg-gray-900 hover:text-white transition cursor-pointer"
+            className="inline-flex items-center gap-2 px-5 py-2.5 rounded-3xl bg-yellow-200 border border-gray-300 text-sm font-medium text-gray-800 hover:bg-black hover:text-white transition cursor-pointer"
           >
             View more projects on GitHub
           </a>

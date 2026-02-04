@@ -123,3 +123,10 @@ This project is open source and available under the MIT License.
 ## Contact
 
 For questions or feedback, feel free to reach out through the contact section on the portfolio.
+
+
+"""
+- add paddings to navbar elements 
+- close project div on pressing escape 
+- or chahe to jb projects p hover kr rhe h to border de de to or highlight ho jaye vo
+"""

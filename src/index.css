@@ -69,10 +69,11 @@ html {
    LINKS
    ========================= */
 a {
-  font-weight: 600;
+  font-weight: 1000;
   color: rgb(100, 93, 93);
   text-decoration: none;
   transition: color 0.2s ease;
+  
 }
 
 a:hover {
@@ -97,12 +98,12 @@ h1 {
    ========================= */
 button {
   border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
+  border: 2px solid #38332b;
+  padding: 0.3em 1em;
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #b8ab8f;
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -156,12 +157,16 @@ button:focus-visible {
   background: #4b5563;
 }
 
-/* =========================
-   TYPOGRAPHY OVERRIDES
-   ========================= */
+
 h1,
 h2,
 h3,
 h4 {
-  font-family: "Bitcount Single", "Times New Roman", serif;
+  font-family: "Macondo","san-serif", "Times New Roman", serif;
+}
+
+ul li{
+  margin: 2px 4px 2px 4px ;
+  padding: 4px;
+  font-weight: bold;
 }

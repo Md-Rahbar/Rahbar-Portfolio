@@ -30,7 +30,7 @@ const Navbar = () => {
         </a>
 
         {/* Desktop Menu */}
-        <ul className="hidden md:flex items-center gap-8 text-sm font-medium text-gray-600">
+        <ul className="hidden md:flex items-center gap-8 text-sm font-medium text-gray-200">
           {links.map((link) => (
             <li key={link.id}>
               <a
@@ -71,7 +71,7 @@ const Navbar = () => {
             exit={{ height: 0, opacity: 0 }}
             className="md:hidden bg-[#fef7e9] px-6 pb-6 border-t border-gray-200"
           >
-            <ul className="flex flex-col gap-4 pt-4">
+            <ul className="flex flex-col gap-4 pt-4 ">
               {links.map((link) => (
                 <li key={link.id}>
                   <a

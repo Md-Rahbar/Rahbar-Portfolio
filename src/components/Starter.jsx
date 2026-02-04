@@ -60,7 +60,7 @@ const Starter = () => {
               href="https://leetcode.com/u/Rahbar10/"
               target="_blank"
               rel="noreferrer"
-              className="cursor-pointer px-5 py-2.5 rounded-full bg-gray-900 text-white text-sm font-medium hover:bg-gray-800 transition"
+              className="cursor-pointer px-5 py-2.5 rounded-2xl border bg-gray-300 border-black/20 text-sm font-medium text-gray-900 hover:bg-black hover:text-white transition"
             >
               View LeetCode
             </a>
@@ -68,7 +68,7 @@ const Starter = () => {
               href="https://github.com/Md-Rahbar"
               target="_blank"
               rel="noreferrer"
-              className="cursor-pointer px-5 py-2.5 rounded-full border border-black/20 text-sm font-medium text-gray-900 hover:bg-black hover:text-white transition"
+              className="cursor-pointer px-5 py-2.5 rounded-2xl border bg-yellow-200 border-black/20 text-sm font-medium text-gray-900 hover:bg-black hover:text-white transition"
             >
               GitHub
             </a>
@@ -76,7 +76,7 @@ const Starter = () => {
               href="https://www.linkedin.com/in/md-rahbar-alam"
               target="_blank"
               rel="noreferrer"
-              className="cursor-pointer px-5 py-2.5 rounded-full border border-black/20 text-sm font-medium text-gray-900  hover:text-white hover:bg-black transition"
+              className="cursor-pointer px-5 py-2.5 rounded-2xl border bg-yellow-100 border-black/20 text-sm font-medium text-gray-900  hover:text-white hover:bg-black transition"
             >
               LinkedIn
             </a>
